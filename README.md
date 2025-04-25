@@ -32,3 +32,13 @@
    cd frontend
    npm run build
    ```
+
+
+   frontend/
+├── Dockerfile                  # Dockerfile for building and running the Vue app
+├── package.json                # Project metadata and dependencies
+├── public/                     # Static assets served by the Vue app
+├── src/                        # Source code for the Vue app
+│   ├── components/             # Vue components
+│   │   └── HelloWorld.vue      # Example Vue component
+├── dist/                       # (Generated after build) Production-ready files
