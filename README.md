@@ -2,7 +2,7 @@
 1. Navigate to the FastAPI (BE) directory and install dependencies:
    Version: python:3.12
    ```
-   cd fastapi-app
+   cd backend
    install -r requirements.txt
    ```
 
