@@ -41,5 +41,5 @@
 ├── src/                        # Source code for the Vue app
 │   ├── components/             # Vue components
 │   │   └── HelloWorld.vue      # Example Vue component
-├── dist/                       # (Generated after build) Production-ready files
+├── dist/                       # (Generated after build) 
 ```
